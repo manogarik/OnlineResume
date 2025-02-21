@@ -1,0 +1,177 @@
+.main_container
+{
+    margin:1px solid black;
+    height:1000px;
+    width:1000px;
+    border : 2px solid blue;
+    background-color: black;
+    color:white;
+   
+}
+hr{
+    height:5px;
+    background-color:grey;
+}
+.section1
+{
+   
+    display:flex;
+    justify-content: space-between;
+   
+}
+img
+{
+    height:100px;
+    width:100px;
+    border:5px solid grey;
+    margin-left:0px;
+}
+#box1
+{
+    display:flex;  
+    padding:8px;
+    border:3px solid black;
+    
+}
+#name_profile
+{
+    margin-left:10px;
+}
+#name_profile h2
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+    color:white;
+}
+#name_profile h4
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    margin-top:-20px;
+    color:aqua;
+}
+#box2
+{
+    display:flex;
+    padding: 8px;
+    border:3px solid black;
+    align-items: center;
+}
+p{
+    font-size: 15px;
+    padding:10px;
+    font-family:sans-serif;
+} 
+.section2
+{
+    height:700px;
+    width:800px;
+    border:3px solid black;
+    
+}
+.employ
+{
+   
+    border:1px solid gray;
+    height:20px;
+    background-color: grey;
+    color:white;
+    margin:3px;
+    padding-top:5px;
+    padding-left:30px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    font-size:20px;
+}
+#exp1
+{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top:20px;
+    font-size:12px;
+    justify-content: space-between;
+    
+}
+#exp2
+{
+    
+    font-size:15px;
+}
+.year
+{
+    margin-left: auto;
+}
+.design1, .design2
+{
+    font-size: 12px;
+    font-weight: normal;
+}
+.job_desc1, .job_desc2
+{
+    font-size: 12px;
+    font-weight: normal;
+    margin-top:20px;
+    
+}
+.design2
+{
+    padding-left:10px;
+}
+#exp2
+{
+    
+    display:flex;
+    margin-top:150px;
+    margin-left:30px;
+    padding-left:8px;
+    justify-content: space-between;
+    font-weight: normal;
+}
+.job_desc2, .design2
+{
+    margin-left:30px;
+    padding-left:10px;
+}
+.College
+{
+    display:flex;
+    
+   
+    flex-wrap:wrap;
+    font-size:12px;
+    margin-left:30px;
+    padding-top:5px;
+    padding-left:8px;
+    justify-content: space-between;
+    font-weight: normal;
+}
+#clg2
+{
+    padding-top:-50;
+}
+.w3-light-grey
+{
+    background-color: grey;
+}
+.w3-red
+{
+    background-color: red;
+}
+.skills
+{
+    padding-left:30px;
+    padding-top:20px;
+}
+.w3-green
+{
+    background-color: green;
+}
+.w3-blue
+{
+    background-color: blue;
+}
+.w3-yellow
+{
+    background-color: aqua;
+}
